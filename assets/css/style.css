@@ -5,11 +5,15 @@
 }
 
 html{
-    cursor: url(/imagens/mata_mosca.png) 30 30, auto;
+    cursor: url(imagens/mata_mosca.png) 30 30, auto;
 }
 
 body{
+<<<<<<< HEAD
     background-image: url(/imagens/background.jpg);
+=======
+    background-image: url(imagens/bg.jpg);
+>>>>>>> 6d8da2946e7f47dc52300c3071f67a820b60fdaf
     background-repeat: no-repeat;
     background-size: cover;
   
