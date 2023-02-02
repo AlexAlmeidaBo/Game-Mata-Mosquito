@@ -1,0 +1,1 @@
+Projeto feito com Javascript puro, para por em pratica o conteudo aprendido no curso.
