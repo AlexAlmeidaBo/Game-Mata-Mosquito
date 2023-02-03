@@ -5,15 +5,15 @@
 }
 
 html{
-    cursor: url(../imagens/mataMosca.png) 30 30, auto;
+    cursor: url(/imagens/mataMosca.png) 30 30, auto;
 }
 
-/* body{
-    background: url(../imagens/bg.jpg);
+body{
+    background: url(/imagens/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-  
-} */
+    height: 100vh;
+}
 
 .mosquito1{
     width:50px;
