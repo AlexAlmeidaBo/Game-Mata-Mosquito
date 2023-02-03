@@ -8,12 +8,12 @@ html{
     cursor: url(../imagens/mataMosca.png) 30 30, auto;
 }
 
-body{
+/* body{
     background: url(../imagens/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   
-}
+} */
 
 .mosquito1{
     width:50px;
