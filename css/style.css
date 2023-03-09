@@ -5,7 +5,7 @@
 }
 
 html{
-    cursor: url(/imagens/mataMosca.png) 30 30, auto;
+    cursor: url(./imagens/mataMosca.png) 30 30, auto;
 }
 
 body{
