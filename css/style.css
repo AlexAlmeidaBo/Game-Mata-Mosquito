@@ -4,15 +4,12 @@
     box-sizing: border-box;
 }
 
-html{
-    cursor: url(./imagens/mataMosca.png) 30 30, auto;
-}
-
 body{
-    background-image: url(/imagens/fundo.jpg);
+    background-image: url("https://img.freepik.com/vetores-gratis/paisagem-com-pantano-na-floresta-tropical_107791-1264.jpg?w=996&t=st=1678374077~exp=1678374677~hmac=8cfe59d8feaac40b051d5eacd759eaa902dbe432e740a310f23ffca6e965b3b3");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
+    
 }
 
 .mosquito1{
