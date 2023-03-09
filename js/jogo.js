@@ -13,7 +13,7 @@ if(nivel === 'normal'){
 } else if (nivel === 'dificil'){
     criaMosquitoTempo = 1000
 } else if (nivel === 'expert')
-    criaMosquitoTempo = 700
+    criaMosquitoTempo = 500
 
 function  ajustarTamanho(){
     altura = window.innerHeight
